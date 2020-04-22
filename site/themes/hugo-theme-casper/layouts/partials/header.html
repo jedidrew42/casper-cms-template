@@ -36,6 +36,7 @@
 	  <link rel="apple-touch-icon" href="{{.Site.BaseURL}}images/apple-touch-icon.png" />
 
     <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/screen.css" />
+    <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/klaro.css" />
     <link rel="stylesheet" type="text/css" href="{{.Site.BaseURL}}css/nav.css" />
     <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Merriweather:300,700,700italic,300italic|Open+Sans:700,400|Inconsolata" />
 
@@ -53,6 +54,10 @@
     {{.Hugo.Generator}}
 
     <link rel="canonical" href="{{ .Permalink }}" />
+
+    <script type="text/javascript" src="{{.Site.BaseURL}}js/klaro.js"></script>
+    <script type="text/javascript" src="{{.Site.BaseURL}}js/config.js"></script>
+    <script type="text/javascript" src="{{.Site.BaseURL}}configs/i18n.js"></script>
 
     {{with  .Site.Params.googleAnalyticsUserID }}
     <script>
