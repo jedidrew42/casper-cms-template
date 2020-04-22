@@ -1,5 +1,17 @@
 ---
-date: 2016-12-22T20:04:40.407Z
-title: First Post
+date: 2020-04-22T20:04:40.407Z
+title: Welcome to our first Camundacon 2020 virtual conference!!
 ---
-Tristique integer nulla, velit orci elementum posuere odit urna amet, vel est amet etiam pharetra curabitur. Risus feugiat pharetra sit dui tempor sed, malesuada metus, ut sociis elementum, placerat dolor curabitur velit. Fermentum nulla, lacus volutpat, et neque suscipit vel nisl at, suspendisse sed consectetuer in. Donec ut tellus massa, ipsum placerat tincidunt, nam nunc amet sit aenean, eleifend porttitor non fermentum. Wisi ultricies ante nec ac dignissim, in neque suscipit eu blandit et, quis imperdiet. Nulla massa velit turpis condimentum, sed vel leo magna dolor at vivamus, lorem metus odio euismod. Libero non leo. Vestibulum lacus iaculis rutrum sagittis ac, a purus, egestas turpis nulla posuere ut sed lacinia, tellus suspendisse massa et nostra. Nascetur hac, ipsum cum, sem eros, tellus suspendisse non. Netus pretium. Auctor integer ut quis urna vestibulum quis, vivamus ligula dictum vel, et amet auctor donec interdum sagittis, fusce mollis sociosqu sem aptent nullam, eu enim hymenaeos et. Ridiculus fusce interdum, vitae volutpat pulvinar mauris netus.
+[https://camundacon.com/live](https://camundacon.com/live)
+
+We’re just days away from CamundaCon Live! Our very first live, virtual conference dedicated to process and workflow automation. If you’re joining us this April 23-24, we’ve written this handy guide to help you make the most of this online experience and make sure you can connect to the wider Camunda Community.
+
+Anything I need to do before joining CamundaCon Live?
+
+Join us today on our exclusive CamundaCon Live Slack channel - it is live right now. This is where you can talk to Camunda experts including Camunda engineers and consultants, who’ll be on hand to answer any questions you have during the event.
+
+Plus you’ll be able to interact with other attendees, including more than 4,300 software developers, architects and IT executives from more than 3,000 companies.
+
+It’s easy to join:
+
+Join the live feed [HERE](https://www.camundacon.com/live/hub/)
