@@ -35,7 +35,7 @@ var klaroConfig = {
     // If "mustConsent" is set to true, Klaro will directly display the consent
     // manager modal and not allow the user to close it before having actively
     // consented or declines the use of third-party apps.
-    mustConsent: false,
+    mustConsent: true,
 
     // Show "accept all" to accept all apps instead of "ok" that only accepts
     // required and "default: true" apps
