@@ -14,7 +14,6 @@ Plus you’ll be able to interact with other attendees, including more than 4,30
 
 It’s easy to join:
 
-[Click Here To Show Klaro](<a href="#" onclick="klaro.show();return false;">here</a>)
 
 <div>
 <a href="#" onclick="klaro.show();return false;">here</a>
