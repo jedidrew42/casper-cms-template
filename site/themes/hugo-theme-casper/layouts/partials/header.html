@@ -56,46 +56,6 @@
 
     <link rel="canonical" href="{{ .Permalink }}" />
 
-    <script defer type="text/javascript" src="{{.Site.BaseURL}}js/bulma.js"></script>
-    <script defer type="text/javascript" src="{{.Site.BaseURL}}js/prism.js"></script>
-    <script defer type="text/javascript" src="{{.Site.BaseURL}}js/klaro.js"></script>
-    <script defer type="text/javascript" src="{{.Site.BaseURL}}js/config.js"></script>
-    <script defer type="text/javascript" src="{{.Site.BaseURL}}configs/i18n.js"></script>
-
-    <script type="text/plain"
-        data-type="text/javascript"
-        data-name="hubspot"
-        data-src="https://js.hs-scripts.com/4513465.js">
-    </script>
-
-    <script type="text/plain" data-src="examples/tracker.js" data-type="application/javascript" data-name="externalTracker">
-    </script>
-    <script type="text/plain" data-type="application/javascript" data-name="inlineTracker">
-
-        console.log("This is an example of an inline tracking script.")
-
-            function setCookie(name, value, days) {
-                var expires = "";
-                if (days) {
-                    var date = new Date();
-                    date.setTime(date.getTime() + (days*24*60*60*1000));
-                    expires = "; expires=" + date.toUTCString();
-                }
-                document.cookie = name + "=" + (value || "")  + expires + "; path=/";
-            }
-
-            //we set a tracking cookie as an example
-            setCookie("inline-tracker", "foo", 120)
-
-        </script>
-    <script>
-        function replaceVersion() {
-            var element = document.getElementById("klaro-version")
-            element.innerHTML = klaro.version()
-        }
-
-    </script>
-
 
     {{with  .Site.Params.googleAnalyticsUserID }}
     <script>
