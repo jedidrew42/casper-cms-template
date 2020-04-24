@@ -98,6 +98,12 @@
 
 {{ .Content }}
 
+<p>
+  <a class="button is-success" onClick="return klaro.show();">Show manager</a>
+  <a class="button is-warning" onClick="klaro.getManager().resetConsent();location.reload()">Reset
+      consent</a>
+</p>
+
 
 {{if ne .Params.index true}}
 {{if .Menus.main.HasChildren }}
