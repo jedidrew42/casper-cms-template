@@ -79,11 +79,11 @@
 
 <main id="content" class="content" role="main">
 
-    <p>
+    <div>
         <a class="button is-success" onClick="return klaro.show();">Show manager</a>
         <a class="button is-warning" onClick="klaro.getManager().resetConsent();location.reload()">Reset
             consent</a>
-    </p>
+        </div>
 
     {{ range .Data.Pages }}
         {{if eq .Type "index" }}
